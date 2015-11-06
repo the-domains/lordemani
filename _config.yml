@@ -1,0 +1,14 @@
+layout_spectrum: 0.2759857
+typography_spectrum: 0.09498208
+color:
+  saturation: 0.7114695
+  lightness: 0.3136201
+  brandStrength: 0.1630824
+  brandColors:
+    - '#030202'
+    - '#BDC7CF'
+    - '#A38865'
+    - '#6590B6'
+    - '#FF5366'
+  rhythmicContrast: 0.327957
+name: LORDEMANI
