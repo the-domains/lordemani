@@ -1,29 +1,41 @@
-name: LORDEMANI
-favicon: null
-layout_spectrum: 0.2759857
-typography_spectrum: 0.09498208
 title: LORDEMANI
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7114695
+  brandStrength: 0.1630824
+  rhythmicContrast: 0.327957
   brandColors:
     - '#030202'
     - '#BDC7CF'
     - '#A38865'
     - '#6590B6'
     - '#FF5366'
-  brandStrength: 0.1630824
   lightness: 0.3136201
-  saturation: 0.7114695
-  rhythmicContrast: 0.327957
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: LORDEMANI
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3422939
+layout_spectrum: 0.3422939
