@@ -1,5 +1,34 @@
-title: LORDEMANI
-purpose: []
+typography_spectrum: 0.3422939
+color:
+  saturation: 0.7114695
+  brandStrength: 0.1630824
+  rhythmicContrast: 0.327957
+  brandColors:
+    - '#030202'
+    - '#BDC7CF'
+    - '#A38865'
+    - '#6590B6'
+    - '#FF5366'
+  lightness: 0.3136201
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9641577
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: LORDEMANI
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Lordemani
+    url: 'http://www.lordemani.com'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.7114695
-  brandStrength: 0.1630824
-  rhythmicContrast: 0.327957
-  brandColors:
-    - '#030202'
-    - '#BDC7CF'
-    - '#A38865'
-    - '#6590B6'
-    - '#FF5366'
-  lightness: 0.3136201
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: LORDEMANI
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3422939
-layout_spectrum: 0.9641577
+title: LORDEMANI
+purpose: []
