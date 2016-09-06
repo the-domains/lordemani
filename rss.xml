@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LORDEMANI]]></title>
+        <description><![CDATA[LORDEMANI]]></description>
+        <link>https://thegrid.ai/lordemani/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 14:52:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lordemani/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La historia de los vikingos bajo la óptica de Revaldería]]></title>
+            <description><![CDATA[<article><h1>La historia de los vikingos bajo la óptica de Revaldería</h1><p>El documental se proyecta dentro de la Romaría Vikinga</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/226a7e819139a0de08fba3cd6709516d/noop.jpg?input=http%3A%2F%2Fwww.lavozdegalicia.es%2Fimg%2Fog_default.jpg"></article>]]></description>
+            <link>http://www.lavozdegalicia.es/noticia/arousa/catoira/2016/08/06/historia-vikingos-trabajo-revalderia/0003_201608A6C7993.htm</link>
+            <guid isPermaLink="false">a00e587c-e422-44f7-9aaa-2c91bda7b1b8</guid>
+            <pubDate>Fri, 02 Sep 2016 14:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News from Spain, La Voz de Galicia talking about our movie.]]></title>
+            <description><![CDATA[<article><h1>News from Spain, La Voz de Galicia talking about our movie.</h1><p>http://www.lavozdegalicia.es/noticia/arousa/catoira/2016/08/06/historia-vikingos-trabajo-revalderia/0003_201608A6C7993.htm</p></article>]]></description>
+            <link>https://thegrid.ai/lordemani/news-from-spain-la-voz-de-galicia-talking-about-our-movie/index.html</link>
+            <guid isPermaLink="false">42a23bd3-6d62-4cd3-83fe-8a6084ea36ad</guid>
+            <pubDate>Fri, 02 Sep 2016 14:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23460103-cbfe-49e0-bf2e-f08f4c62767d.jpg">]]></description>
+            <link>https://thegrid.ai/lordemani/a6778f0b-184c-4c3b-bb1f-039e1b0ea6ed/index.html</link>
+            <guid isPermaLink="false">a6778f0b-184c-4c3b-bb1f-039e1b0ea6ed</guid>
+            <pubDate>Fri, 02 Sep 2016 14:33:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
